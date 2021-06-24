@@ -1,0 +1,1 @@
+/usr/bin/c++.exe  -std=c++11 -W -Wall -Werror -pedantic -g  -Wl,--enable-auto-import CMakeFiles/BSTDriver.dir/BSTDriver.cpp.o  -o BSTDriver.exe -Wl,--out-implib,libBSTDriver.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
